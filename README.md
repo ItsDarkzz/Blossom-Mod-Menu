@@ -1,2 +1,2 @@
-# Blossom-Mod-Menu
+# Blossom
 A Gorilla Tag mod menu.
