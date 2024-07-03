@@ -11,27 +11,25 @@ This project was created not a long time ago so you may experience bugs. The Dis
 
 ```diff
  FIXED:
-+ Disconnect T
-+ Disconnect B
-+ Fun Mods
-+ No Clip
- 
+
++ OP Mods (except ban all)
++ Trigger Platforms
++ Disable Gamemode Buttons
++ Trigger Disconnect
++ No Clip Fly
+
  ADDED:
 
-+ Fun Mods
-+ Disconnect T
-+ Disconnect B
-+ No Clip Fly
-+ Spin Head X
-+ Spin Head Y
-+ Spin Head Z
-+ Upside Down Head
-+ Loud Hand Taps
-+ Silent Hand Taps
-+ Instant Hand Taps
-+ Loud Microphone
-+ Not Loud Microphone
-+ Lag All Gun
++ Anti Report [Reconnect]
++ Anti Report [Join Random]
++ Create Public
++ Disable Mouth Movement
++ Anti Moderator
++ Join Random
++ Reconnect
++ Trigger Platforms
++ Set Master
++ Master Check
 
  REMOVED:
 - Nothing
